@@ -1,2 +1,3 @@
 my first line of code to help base ecosysytem
-check my
+check my x
+read my bio
